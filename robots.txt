@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ajaeweete.evawelten.nl/sitemap.xml
